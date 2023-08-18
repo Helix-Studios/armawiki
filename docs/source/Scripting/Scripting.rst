@@ -1,14 +1,14 @@
-gay
+Scripting
 =====
 
-.. _gay:
+.. _Scripting:
 
-gay
+Scripting basics
 ------------
 
 this is not gay
 
-gay
+Very hard
 ----------------
 
 

@@ -1,13 +1,13 @@
-terrains
+Config
 =====
 
-.. _terrains:
+.. _Config:
 
 Pre-requisites
 ------------
 
 
-Creating gay terrains
+this is not a config
 ----------------
 
 

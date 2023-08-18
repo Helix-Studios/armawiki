@@ -1,14 +1,14 @@
-test
+Modelling
 =====
 
-.. _test:
+.. _Modelling:
 
-Installation
+Get Blender
 ------------
 
 To use Lumache, first install it using pip:
 
-Creating gaymen
+Creating gaymen2
 ----------------
 
 

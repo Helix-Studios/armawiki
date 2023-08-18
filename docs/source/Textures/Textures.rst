@@ -1,13 +1,15 @@
-Texturez init
+Textures
 =====
 
-.. _Texturez:
+.. _Textures:
 
 What is a texture?
 ------------
 
 
-Creating gaymen
+What is maps?
 ----------------
 
+
+its an image
 
