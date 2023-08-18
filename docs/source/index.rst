@@ -22,3 +22,7 @@ Contents
 
    usage
    /modelling/test
+   /Config/test
+   /Terrains/Tutorial
+   /Textures/Texturez
+   /Scripting/gay
