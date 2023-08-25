@@ -36,7 +36,7 @@ CfgPatches
 ----------------
 The most important part of ANY config. This defines all the basic mod information such as mod name (or part of a mod name), the author, requiredaddons as well as the lists of units and weapons that are contained within your config.
 
-..code-block::
+.. code-block::
     :caption: A full CfgPatches layout, feel free to copy this and use it yourself.
     class CfgPatches
     {
