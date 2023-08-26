@@ -11,7 +11,7 @@ Pre-requisites
 Your first import
 ----------------
 
-.. figure:: bldftcube.png
+.. image:: /img/importbasic/bldftcube.png
     :width: 800
     :alt: A basic cube in blender
 
