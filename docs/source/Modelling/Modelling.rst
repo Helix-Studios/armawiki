@@ -12,5 +12,6 @@ Your first import
 ----------------
 
 .. image:: bldftcube.png
-    :scale: 50%
+    :width: 800
+    :alt: A basic cube in blender
 
