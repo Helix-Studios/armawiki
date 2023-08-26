@@ -3,12 +3,12 @@ Modelling
 
 .. _Modelling:
 
-Get Blender
+Pre-requisites
 ------------
+Blender
+A sense of time and space
 
-To use Lumache, first install it using pip:
-
-Creating gaymen2
+Your first import
 ----------------
 
-.. image:: /img/importbasic/bldftcube.png
+.. image:: Modelling/img/importbasic/bldftcube.png
