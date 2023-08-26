@@ -38,6 +38,7 @@ The most important part of ANY config. This defines all the basic mod informatio
 
 .. code-block::
     :caption: A full CfgPatches layout, feel free to copy this and use it yourself.
+    
     class CfgPatches
     {
         class TestAddon
