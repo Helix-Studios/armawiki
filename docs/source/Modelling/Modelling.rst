@@ -12,4 +12,5 @@ Your first import
 ----------------
 
 .. image:: bldftcube.png
+    :scale: 50%
 
