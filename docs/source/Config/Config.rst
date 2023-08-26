@@ -59,7 +59,10 @@ The most important part of ANY config. This defines all the basic mod informatio
             skipWhenMissingDependencies = 1;
         };
     };
-
+.. code-block::
+    
+    testcode
+    this is testing Code.cpp
 
 .. note::
     Remember to take breaks every now and then, C++ and Arma modding can be annoying and confusing :).
