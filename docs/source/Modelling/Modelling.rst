@@ -11,4 +11,4 @@ A sense of time and space
 Your first import
 ----------------
 
-.. image:: Modelling/img/importbasic/bldftcube.png
+.. image:: img/importbasic/bldftcube.png
