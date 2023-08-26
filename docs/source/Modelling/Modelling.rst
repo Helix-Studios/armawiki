@@ -11,5 +11,5 @@ Pre-requisites
 Your first import
 ----------------
 
-.. image:: bldftcube.*
-    /img/importbasic/
+.. image:: bldftcube.png
+
