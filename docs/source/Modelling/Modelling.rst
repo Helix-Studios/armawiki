@@ -5,10 +5,11 @@ Modelling
 
 Pre-requisites
 ------------
-Blender
-A sense of time and space
++ Blender
++ A sense of time and space
 
 Your first import
 ----------------
 
-.. image:: img/importbasic/bldftcube.png
+.. image:: bldftcube.*
+    /img/importbasic/
