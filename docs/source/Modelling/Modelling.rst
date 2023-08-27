@@ -11,7 +11,7 @@ Pre-requisites
 Your first import
 ----------------
 
-.. image:: bldftcube.*
+.. image:: bldftcube.PNG
     :width: 800
 
 blender cube go brr
