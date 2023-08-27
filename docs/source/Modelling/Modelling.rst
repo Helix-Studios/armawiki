@@ -11,7 +11,9 @@ Pre-requisites
 Your first import
 ----------------
 
-.. image:: bldftcube.PNG
+.. image:: https://raw.githubusercontent.com/Helix-Studios/armawiki/main/bldftcube.PNG
     :width: 800
 
 blender cube go brr
+
+https://raw.githubusercontent.com/Helix-Studios/armawiki/main/
